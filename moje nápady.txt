@@ -1,0 +1,10 @@
+Potřeba udělat:
+- celý enemy - jakoby hero, ale něco jinak(teď nevim co)
+- zkusit vymyslet, co všechno by měl hrdina a enemy mít - možná dát manu jen hrdinovy / když to budej jak u hrdiny, dát např. u hada 0 many a u evil_mage 20 many(třeba)
+
+- útok, aby tam byla možnost random dodge(úhyb) - celý udělat(aspoň 4 útoky, které se budou postupně přidávat, až jich bude víc, budou se vyměňovat[asi])
+
+- 
+
+- enemy random typ_enemy => aby to šlo do PySFML
+- samozřejmě celé v PySFML - teďka ještě neřešim

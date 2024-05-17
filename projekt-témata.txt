@@ -1,0 +1,18 @@
+Hra s hrdinou:
+- Hrdina bude sbírat xp a $ z enemy, díky kterým si bude postupně otevírat věci v obchodě, další světy, zlepšovat se, ...
+- Bude mít různé vybavení(zbraně, armor, štíty, lektvary, ...)
+- Atributy se budou zlepšovat při získání lvlu a někdy i v obchodě(možná nějaké hero pointy)
+- Obchody v checkpointech mohou být specializované(jako na armor, zbraně, lektvary, ...), na konci budou obchody na všechno
+
+- Na každém světu různé typy enemy, podle typu světa a lvlu světa + na konci nějaký Boss a nějaké checkpointy(pro obchod)
+- Ke každému světu na začátku nějaký popis(jestli je to poušť, sopka, ... + něco k tomu) a jací enemy tam mohou být 
+- Na každém světu budou mít enemy něco special(šance u sopky na spálení(větší damage), u ledovce na zmržení(slabší hrdina))
+
+- Začne hra, hrdina může: do obchodu, info (co dělat), jít do světa(5 částí - checkpoint - 5 částí - checkpoint - Boss)
+- Vejde a buď potká enemy: bojuje(výhra - xp a $/ prohra - jde od checkpointu, asi) nebo nějakou treasure: sebere($, ...)
+- Při boji může hrdina random uhnout, příp. dát random critical - oboje by se mohli zvyšovat podle lvl
+- V infu bude: Co může dělat, co co znamená(nějaký popis), jeho inventář a v tom i atributy, ...
+- Po každé části(z těch 5 mezi checkpointy) může buď rovnou okračovat do další části nebo se může podívat na info(inventář)
+
+- Nějaké grafické spracování(jak v ZOO sfml, nebo něco takového)
+- knihovny: random, PySFML
